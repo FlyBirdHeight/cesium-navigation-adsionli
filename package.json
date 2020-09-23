@@ -1,6 +1,6 @@
 {
   "name": "adsionli-navigation",
-  "version": "1.1.7",
+  "version": "1.0.0",
   "description": "自己重新编译大佬的cesium-navigation-es6，去除错误",
   "main": "viewerCesiumNavigationMixin.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richard1015/cesium-navigation-es6.git"
+    "url": "git+https://github.com/FlyBirdHeight/cesium-navigation-adsionli.git"
   },
   "dependencies": {
     "cesium": "^1.72.0",
@@ -22,7 +22,7 @@
   "author": "richard",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/richard1015/cesium-navigation-es6/issues"
+    "url": "https://github.com/FlyBirdHeight/cesium-navigation-adsionli/issues"
   },
-  "homepage": "https://github.com/richard1015/cesium-navigation-es6#readme"
+  "homepage": "https://github.com/FlyBirdHeight/cesium-navigation-adsionli#readme"
 }
